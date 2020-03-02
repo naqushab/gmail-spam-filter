@@ -1,10 +1,10 @@
-# Gmail SSPAM filter
+# Gmail SPAM filter
 
 🐱‍👤 Gmail SPAM filter to send annoying SPAM directly to Trash.
 
 ## About
 
-Are you receiving annoying SPAM messages in gmail?
+Are you receiving annoying SPAM messages in Gmail?
 
 Eg:
 
@@ -14,7 +14,7 @@ Eg:
 
 ![irs.png](https://raw.githubusercontent.com/TheBikramLama/gmail-spam-filter/master/examples/irs.png)
 
-According to my research such emails might be the result of **000Webhost Data Breach** which occurred at around **November 2015** ➡ [source](https://www.000webhost.com/000webhost-database-hacked-data-leaked)
+According to my research, such emails might be the result of **000Webhost Data Breach** which occurred at around **November 2015** ➡ [source](https://www.000webhost.com/000webhost-database-hacked-data-leaked)
 
 ## How to use the filter?
 
@@ -22,11 +22,11 @@ According to my research such emails might be the result of **000Webhost Data Br
 - Open [Gmail Settings](https://mail.google.com/mail/u/0/#settings/filters)
 - Head to **Filters and Blocked Addresses**
 - Click on **Import Filters** which is located at around bottom of the page
-- Upload the `mailFilters.xml` file and choose all filter.
+- Upload the `mailFilters.xml` file and choose all filters.
 
 ## Why use the filter?
 
-Since some genuine messages ends up in the SPAM folder sometimes, these SPAM messages pollute the folder and makes it difficult to find the genuine message.
+Since some genuine messages end up in the SPAM folder sometimes, these SPAM messages pollute the folder and make it difficult to find a genuine message.
 
 ## Contributing
 
