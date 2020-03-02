@@ -28,6 +28,10 @@ According to my research such emails might be the result of **000Webhost Data Br
 
 Since some genuine messages ends up in the SPAM folder sometimes, these SPAM messages pollute the folder and makes it difficult to find the genuine message.
 
+## Contributing
+
+Please follow these guidlines before creating a PR 👉 [Contributing.md](docs/contributing.md)
+
 ## Credits
 - [Bikram Lama](https://github.com/TheBikramLama)
 
