@@ -1,6 +1,6 @@
 # Gmail SPAM filter
 
-🐱‍👤 Gmail SPAM filter to send annoying SPAM directly to Trash.
+👤 Gmail SPAM filter to send annoying SPAM directly to Trash.
 
 ## About
 
@@ -14,7 +14,7 @@ Eg:
 
 ![irs.png](https://raw.githubusercontent.com/TheBikramLama/gmail-spam-filter/master/examples/irs.png)
 
-According to my research, such emails might be the result of **000Webhost Data Breach** which occurred at around **November 2015** ➡ [source](https://www.000webhost.com/000webhost-database-hacked-data-leaked)
+According to my research, such emails might be the result of **000Webhost Data Breach** which occurred at around **November 2015** 👉 [source](https://www.000webhost.com/000webhost-database-hacked-data-leaked)
 
 ## How to use the filter?
 
